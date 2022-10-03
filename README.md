@@ -28,11 +28,17 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
 
 ![](https://img.shields.io/badge/gaming-unreal-informational?style=flat&logo=unrealengine&logoColor=white)
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
+
+</br>
+
 ![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+
+</br>
+
 ![](https://img.shields.io/badge/Framework-ESP_IDF-informational?style=flat&logo=Espressif&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Android-informational?style=flat&logo=Android&logoColor=white)
 ![](https://img.shields.io/badge/Framework-iOS-informational?style=flat&logo=iOS&logoColor=white)
@@ -45,11 +51,11 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
 
 </br>
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=Githubactions&logoColor=058a5e)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=Githubactions)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 
 <!--
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
