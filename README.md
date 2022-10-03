@@ -8,7 +8,7 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
   [brilliant](https://brilliant.org)).
 - 👯 I’m looking to collaborate on open source projects involving graphics,
   simulation, embedded systems, or computer vision.
-- 💬 Ask me about medical devices, rocketry, or rock climbing
+- 💬 Ask me about emacs, medical devices, rocketry, or rock climbing
 - ⚡ Fun fact: I'm an advisor to the Vanderbilt Aerospace Design Lab (VADL) and
   I've never _personally_ caused the explosion of one of our rockets
 
@@ -36,9 +36,9 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=latex&logoColor=white)
 
 </br>
-
 ![](https://img.shields.io/badge/Framework-ESP_IDF-informational?style=flat&logo=Espressif&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Android-informational?style=flat&logo=Android&logoColor=white)
 ![](https://img.shields.io/badge/Framework-iOS-informational?style=flat&logo=iOS&logoColor=white)
@@ -48,6 +48,7 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
 ![](https://img.shields.io/badge/Framework-node.js-informational?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Qt-informational?style=flat&logo=Qt&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white)
+![](https://img.shields.io/badge/Framework-Nativescript-informational?style=flat&logo=Nativescript&logoColor=white)
 
 </br>
 
@@ -56,6 +57,8 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
 ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=Githubactions)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Emacs-informational?style=flat&logo=gnuemacs&logoColor=white)
+![](https://img.shields.io/badge/Tools-Eagle-informational?style=flat&logo=autodesk&logoColor=white)
 
 <!--
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
