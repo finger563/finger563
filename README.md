@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, dancing, video games, conversations. I ✨ like ✨  to explore new places with different traditions and cultures.
+I am **Finger563(Product Designer, Programmer, Leader, Friend)**. I like math, physics, programming, traveling, photography, video games, rock climbing, skiing, hiking, and many others.
 
 - 🔭 I’m currently working on Simulation & Games (Unreal Engine 5), Networked
   Embedded Systems (ESP-IDF), and Machine Learning.
@@ -8,7 +8,7 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
   [brilliant](https://brilliant.org)).
 - 👯 I’m looking to collaborate on open source projects involving graphics,
   simulation, embedded systems, or computer vision.
-- 💬 Ask me about emacs, medical devices, rocketry, or rock climbing
+- 💬 Ask me about emacs, medical devices, rocketry, rock climbing, or awesome PBS YouTube channel recommendations
 - ⚡ Fun fact: I'm an advisor to the Vanderbilt Aerospace Design Lab (VADL) and
   I've never _personally_ caused the explosion of one of our rockets
 
