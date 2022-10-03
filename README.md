@@ -29,7 +29,7 @@ I am **Finger563()**. I ✨ like ✨  problem solving, traveling, photography, d
 ![](https://img.shields.io/badge/gaming-unreal-informational?style=flat&logo=unrealengine&logoColor=white)
 ![](https://img.shields.io/badge/gaming-unity-informational?style=flat&logo=unity&logoColor=white)
 ![](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=c++&logoColor=white)
+![](https://img.shields.io/badge/Code-c++-informational?style=flat&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white)
