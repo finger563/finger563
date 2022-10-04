@@ -67,8 +67,10 @@ I am **Finger563(Product Designer, Programmer, Leader, Friend)**. I like math, p
 
 ## 📈 GitHub Stats 
 
-[![Finger563's github stats](https://github-readme-stats.vercel.app/api?username=finger563)](https://github.com/finger563)
+![Metrics](https://metrics.lecoq.io/finger563?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FChicago)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finger563&layout=compact)](https://github.com/finger563)
+![Metrics2](https://github-readme-stats.vercel.app/api?username=finger563)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=finger563.finger563)](https://github.com/finger563)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=finger563&layout=compact)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=finger563.finger563)
