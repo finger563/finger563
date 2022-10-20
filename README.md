@@ -2,6 +2,8 @@
 
 I am **Finger563(Product Designer, Programmer, Leader, Friend)**. I like math, physics, programming, traveling, photography, video games, rock climbing, skiing, hiking, and many others.
 
+[Here](https://finger563.github.io/cbsat/docs/index.html) is my thesis work from back in the day, regarding [precise network performance prediction of distributed cyber-physical systems](https://github.com/finger563/cbsat). In that repo are the documentation, tools, thesis, and presentation material.
+
 - 🔭 I’m currently working on Simulation & Games (Unreal Engine 5), Networked
   Embedded Systems (ESP-IDF), and Machine Learning.
 - 🌱 I’m currently learning Quantum Mechanics (via
